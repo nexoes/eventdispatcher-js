@@ -1,18 +1,18 @@
 {
   "name": "nx-eventdispatcher-js",
   "version": "1.0.0",
-  "description": "eventdispatcher.js ========",
+  "description": "nx-eventdispatcher-js",
   "publishConfig": {
     "registry": "http://localhost:4873"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nexoes/eventdispatcher-js.git"
+    "url": "git+https://github.com/nexoes/nx-eventdispatcher-js.git"
   },
   "author": "Peter Andreas Moelgaard <admin@petermolgaard.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nexoes/eventdispatcher-js/issues"
+    "url": "https://github.com/nexoes/nx-eventdispatcher-js/issues"
   },
-  "homepage": "https://github.com/nexoes/eventdispatcher-js#readme"
+  "homepage": "https://github.com/nexoes/nx-eventdispatcher-js#readme"
 }
